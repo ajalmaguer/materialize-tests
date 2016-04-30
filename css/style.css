@@ -1,0 +1,11 @@
+
+.chip {
+  margin-bottom: 10px;
+}
+
+.take-photo{
+  /*float: right;*/
+  position: absolute;
+  right: 20%;
+  top:-10px;
+}
